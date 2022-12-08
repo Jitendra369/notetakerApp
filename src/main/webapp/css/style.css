@@ -1,0 +1,17 @@
+@charset "ISO-8859-1";
+
+*{
+	padding: 0px;
+	margin: 0px;
+	box-sizing: border-box;
+}
+
+.nav-bar-color{
+	background-color: #720D5D;
+
+}
+
+#card a{
+	display: block;
+	
+}
